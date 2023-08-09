@@ -1,4 +1,4 @@
-# Rare Diseasee Corpus.
+# Rare Disease Corpus.
 
 The dataset of 842 clinical records (labeled as rare or common) for research purposes and referencing correctly can be downloaded from this github repo.
 
